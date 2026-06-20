@@ -1,4 +1,6 @@
-<center> <img src="./assets/Shorekeeper.gif" alt="Demo GIF" height="200" /> </center>
+<div align="center"> 
+  <img src="./assets/Shorekeeper.gif" alt="Demo GIF" height="200" />
+</div>
 
 
 ## <center>Hello! I'm Radya! </center>

@@ -1,13 +1,22 @@
-![GIF](./assets/0620.gif)
+<center> <img src="./assets/Shorekeeper.gif" alt="Demo GIF" height="200" />
+</center>
 
-## <center>Hello! I'm Radya!
+
+## <center>Hello! I'm Radya! </center>
+
+---
 
 ### <center> Backend Developer | Mobile Developer | Cybersecurity Enthusiast
+</center>
+
+---
 
 <center> Undergraduate Information System student at UPN Veteran Jakarta. I build backend web application and currently learning mobile application & cloud computing architecture.
 </center>
 
-###### Tech Stack & Tools
+---
+
+##### Tech Stack & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -21,11 +30,13 @@
   </a>
 </p>
 
-###
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/ZerithX/ZerithX/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
+#####  GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ZerithX&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ZerithX&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
